@@ -1,0 +1,48 @@
+name: V-sport adatgyűjtés
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: v-sport-collector
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Repository letöltése
+        uses: actions/checkout@v4
+
+      - name: Node.js beállítása
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Függőségek telepítése
+        run: npm install
+
+      - name: Chromium telepítése
+        run: npx playwright install --with-deps chromium
+
+      - name: Adatgyűjtés
+        run: npm run collect
+
+      - name: Eredmény mentése
+        run: |
+          git config user.name "v-sport-adatfigyelo[bot]"
+          git config user.email "v-sport-adatfigyelo@users.noreply.github.com"
+          git add data package-lock.json
+          if git diff --cached --quiet; then
+            echo "Nincs új mentendő adat."
+          else
+            git commit -m "Adatgyűjtés: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
