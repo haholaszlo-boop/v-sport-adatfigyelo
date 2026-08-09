@@ -1,0 +1,12 @@
+{
+  "name": "v-sport-adatfigyelo",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "collect": "node src/collect.mjs"
+  },
+  "dependencies": {
+    "playwright": "1.54.2"
+  }
+}
