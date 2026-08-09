@@ -2,7 +2,7 @@ name: V-sport adatgyűjtés
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -15,7 +15,7 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 12
     steps:
       - name: Repository letöltése
         uses: actions/checkout@v4
@@ -32,7 +32,10 @@ jobs:
       - name: Chromium telepítése
         run: npx playwright install --with-deps chromium
 
-      - name: Adatgyűjtés
+      - name: Két mintavétel 2,5 perc eltéréssel
+        env:
+          SAMPLE_COUNT: "2"
+          SAMPLE_INTERVAL_SECONDS: "150"
         run: npm run collect
 
       - name: Eredmény mentése
@@ -44,5 +47,6 @@ jobs:
             echo "Nincs új mentendő adat."
           else
             git commit -m "Adatgyűjtés: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase
             git push
           fi
