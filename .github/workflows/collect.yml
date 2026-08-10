@@ -4,6 +4,13 @@ on:
   schedule:
     - cron: "*/5 * * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/collect.yml"
+      - "package.json"
+      - "src/**"
 
 permissions:
   contents: write
@@ -23,8 +30,7 @@ jobs:
       - name: Node.js beállítása
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
-          cache: npm
+          node-version: "24"
 
       - name: Függőségek telepítése
         run: npm install
