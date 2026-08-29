@@ -2,17 +2,15 @@
   "schemaVersion": 2,
   "status": "ok",
   "competition": "Virtuális BL",
-  "collectedAt": "2026-08-29T07:09:42.864Z",
+  "collectedAt": "2026-08-29T07:17:19.519Z",
   "targetUrl": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-bl-3121214",
   "finalUrl": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-angol-gyorsfoci-3128381/312932690981187584",
   "title": "",
-  "fingerprint": "edfcf1c49f8c79b286c96b3c8da5b25deb9d58a430f498ac77aa73ffb0fb6ee9",
+  "fingerprint": "9bee3ae8b87032ed71250eb2ab92860b2a5daa536ac2ccc50374a09492d5675b",
   "eventIds": [
-    "312932690981187584",
     "312948628991406080",
     "312948042803867648",
     "312943136267202560",
-    "312932667873718272",
     "312948609384083456",
     "312943886222389248",
     "312943201333440512",
@@ -20,14 +18,13 @@
     "312943262586007552",
     "312943829295198208",
     "312944011310166016",
-    "312932667872669696",
     "312948609385132032",
     "312947014449655808",
     "312948240344051712",
     "312948298583011328",
     "312948310224302080"
   ],
-  "lineCount": 94,
+  "lineCount": 39,
   "lines": [
     "Virtuális Labdarúgás",
     "Virtuális Kosárlabda",
@@ -35,11 +32,9 @@
     "Virtuális Baseball",
     "Virtuális Krikett",
     "Virtuális Lóverseny",
-    "Virtuális Angol gyorsfoci 3128381",
     "Virtuális Angol gyorsfoci 3128451",
     "Virtuális Premier Liga 3128443",
     "Virtuális Angol bajnoki 3128419",
-    "Virtuális Spanyol gyorsfoci 3128379",
     "Virtuális Spanyol gyorsfoci 3128450",
     "Virtuális Spanyol Liga 3128426",
     "Virtuális Spanyol bajnoki 3128421",
@@ -47,65 +42,12 @@
     "Virtuális Olasz bajnoki 3128422",
     "Virtuális Bundesliga 1. 3128425",
     "Virtuális Francia 1. 3128428",
-    "Virtuális Brazil gyorsfoci 3128380",
     "Virtuális Brazil gyorsfoci 3128449",
     "Virtuális BL 3128440",
     "Virtuális Eb 3128444",
     "Virtuális Nemzetek Kupája 3128445",
     "Virtual Football World Championship 3128446",
-    "VIRTUÁLIS ANGOL GYORSFOCI 3128381",
-    "1X2",
-    "Gólszám",
-    "Mindkét csapat szerez gólt",
-    "Manchester Red",
-    "Newcastle",
-    "08.29",
-    "09:09",
-    "Hazai",
-    "Döntetlen",
-    "Vendég",
-    "Igen",
-    "Nem",
-    "Wolverhampton",
-    "West Ham",
-    "08.29",
-    "09:10",
-    "Hazai",
-    "2,30",
-    "Döntetlen",
-    "3,55",
-    "Vendég",
-    "2,55",
-    "Több, mint",
-    "1,70",
-    "2.5",
-    "Kevesebb, mint",
-    "1,90",
-    "Igen",
-    "1,55",
-    "Nem",
-    "2,10",
-    "28",
-    "Bournemouth",
-    "Crystal Palace",
-    "08.29",
-    "09:11",
-    "Hazai",
-    "2,50",
-    "Döntetlen",
-    "3,40",
-    "Vendég",
-    "2,40",
-    "Több, mint",
-    "1,70",
-    "2.5",
-    "Kevesebb, mint",
-    "1,95",
-    "Igen",
-    "1,55",
-    "Nem",
-    "2,10",
-    "28",
+    "Jelenleg nincs elérhető esemény",
     "A csapat- és játékosnevek kitaláltak, mindennemű egyezés a valósággal kizárólag a véletlen műve.",
     "A részvételi szabályzat megtekintéséshez kattints ide.",
     "TUDNIVALÓK A V-SPORT FOGADÁSRÓL",
@@ -150,10 +92,6 @@
       "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-loverseny/87"
     },
     {
-      "text": "Virtuális Angol gyorsfoci 3128381",
-      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-angol-gyorsfoci-3128381/312932690981187584"
-    },
-    {
       "text": "Virtuális Angol gyorsfoci 3128451",
       "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-angol-gyorsfoci-3128451/312948628991406080"
     },
@@ -164,10 +102,6 @@
     {
       "text": "Virtuális Angol bajnoki 3128419",
       "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-angol-bajnoki-3128419/312943136267202560"
-    },
-    {
-      "text": "Virtuális Spanyol gyorsfoci 3128379",
-      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-spanyol-gyorsfoci-3128379/312932667873718272"
     },
     {
       "text": "Virtuális Spanyol gyorsfoci 3128450",
@@ -198,10 +132,6 @@
       "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-francia-1-3128428/312944011310166016"
     },
     {
-      "text": "Virtuális Brazil gyorsfoci 3128380",
-      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-brazil-gyorsfoci-3128380/312932667872669696"
-    },
-    {
       "text": "Virtuális Brazil gyorsfoci 3128449",
       "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-brazil-gyorsfoci-3128449/312948609385132032"
     },
@@ -220,10 +150,6 @@
     {
       "text": "Virtual Football World Championship 3128446",
       "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtual-football-world-championship-3128446/312948310224302080"
-    },
-    {
-      "text": "Virtuális Angol gyorsfoci 3128381",
-      "href": ""
     },
     {
       "text": "A részvételi szabályzat megtekintéséshez kattints ide.",
