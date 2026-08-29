@@ -2,11 +2,11 @@
   "schemaVersion": 2,
   "status": "ok",
   "competition": "Virtuális BL",
-  "collectedAt": "2026-08-29T03:21:44.466Z",
+  "collectedAt": "2026-08-29T03:28:53.585Z",
   "targetUrl": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-bl-3121214",
   "finalUrl": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-angol-gyorsfoci-3128315/312916753542443008",
   "title": "",
-  "fingerprint": "78e108b5247424a614994f849554b424c9533a0d35487d6bb4d6148363b5e292",
+  "fingerprint": "21bb045002197d58355652cebfba655287a4aaeb0d7c646998cb612284c00f3b",
   "eventIds": [
     "312932690981187584",
     "312933950155288576",
@@ -21,9 +21,10 @@
     "312932667872669696",
     "312931220169846784",
     "312934354572177408",
-    "312934411953401856"
+    "312934411953401856",
+    "312931658908725248"
   ],
-  "lineCount": 38,
+  "lineCount": 39,
   "lines": [
     "Virtuális Labdarúgás",
     "Virtuális Kosárlabda",
@@ -45,6 +46,7 @@
     "Virtuális BL 3128374",
     "Virtuális Eb 3128388",
     "Virtuális Nemzetek Kupája 3128389",
+    "Virtual Football World Championship 3128376",
     "Jelenleg nincs elérhető esemény",
     "A csapat- és játékosnevek kitaláltak, mindennemű egyezés a valósággal kizárólag a véletlen műve.",
     "A részvételi szabályzat megtekintéséshez kattints ide.",
@@ -144,6 +146,10 @@
     {
       "text": "Virtuális Nemzetek Kupája 3128389",
       "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-nemzetek-kupaja-3128389/312934411953401856"
+    },
+    {
+      "text": "Virtual Football World Championship 3128376",
+      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtual-football-world-championship-3128376/312931658908725248"
     },
     {
       "text": "A részvételi szabályzat megtekintéséshez kattints ide.",
