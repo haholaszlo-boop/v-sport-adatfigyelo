@@ -2,29 +2,33 @@
   "schemaVersion": 2,
   "status": "ok",
   "competition": "Virtuális BL",
-  "collectedAt": "2026-08-30T17:11:54.746Z",
+  "collectedAt": "2026-08-30T17:19:04.835Z",
   "targetUrl": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-bl-3121214",
   "finalUrl": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-angol-gyorsfoci-3128905/313060198567276544",
   "title": "",
-  "fingerprint": "264bf9b8ac9f4b700d94d9b55bee1a811715d90e02b63eb9319c38fdfc8b758b",
+  "fingerprint": "ffef174b7d6301d1ab7331929b801ed8e1b42c16a5f4e8af713bc2a4a21e6994",
   "eventIds": [
     "313076138147214592",
     "313074879102087168",
     "313033734631354368",
     "313076115351171072",
     "313070723636293632",
+    "313077773617491968",
     "313033796056936448",
     "313070778892054528",
+    "313077825647833088",
     "313033861062356992",
     "313070668324958208",
+    "313077712911233024",
     "313070846065930240",
     "313076115352219648",
     "313073347285643264",
     "313076658831257600",
     "313076714005229568",
-    "313077359501275136"
+    "313077359501275136",
+    "313077893987725312"
   ],
-  "lineCount": 39,
+  "lineCount": 43,
   "lines": [
     "Virtuális Labdarúgás",
     "Virtuális Kosárlabda",
@@ -37,16 +41,20 @@
     "Virtuális Angol bajnoki 3128791",
     "Virtuális Spanyol gyorsfoci 3128965",
     "Virtuális Spanyol Liga 3128944",
+    "Virtuális Spanyol Liga 3128975",
     "Virtuális Spanyol bajnoki 3128792",
     "Virtuális Olasz A 3128945",
+    "Virtuális Olasz A 3128976",
     "Virtuális Olasz bajnoki 3128793",
     "Virtuális Bundesliga 1. 3128943",
+    "Virtuális Bundesliga 1. 3128973",
     "Virtuális Francia 1. 3128946",
     "Virtuális Brazil gyorsfoci 3128964",
     "Virtuális BL 3128957",
     "Virtuális Eb 3128968",
     "Virtuális Nemzetek Kupája 3128969",
     "Virtual Football World Championship 3128974",
+    "Virtuális Francia 1. 3128977",
     "Jelenleg nincs elérhető esemény",
     "A csapat- és játékosnevek kitaláltak, mindennemű egyezés a valósággal kizárólag a véletlen műve.",
     "A részvételi szabályzat megtekintéséshez kattints ide.",
@@ -112,6 +120,10 @@
       "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-spanyol-liga-3128944/313070723636293632"
     },
     {
+      "text": "Virtuális Spanyol Liga 3128975",
+      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-spanyol-liga-3128975/313077773617491968"
+    },
+    {
       "text": "Virtuális Spanyol bajnoki 3128792",
       "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-spanyol-bajnoki-3128792/313033796056936448"
     },
@@ -120,12 +132,20 @@
       "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-olasz-a-3128945/313070778892054528"
     },
     {
+      "text": "Virtuális Olasz A 3128976",
+      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-olasz-a-3128976/313077825647833088"
+    },
+    {
       "text": "Virtuális Olasz bajnoki 3128793",
       "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-olasz-bajnoki-3128793/313033861062356992"
     },
     {
       "text": "Virtuális Bundesliga 1. 3128943",
       "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-bundesliga-1-3128943/313070668324958208"
+    },
+    {
+      "text": "Virtuális Bundesliga 1. 3128973",
+      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-bundesliga-1-3128973/313077712911233024"
     },
     {
       "text": "Virtuális Francia 1. 3128946",
@@ -150,6 +170,10 @@
     {
       "text": "Virtual Football World Championship 3128974",
       "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtual-football-world-championship-3128974/313077359501275136"
+    },
+    {
+      "text": "Virtuális Francia 1. 3128977",
+      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-francia-1-3128977/313077893987725312"
     },
     {
       "text": "A részvételi szabályzat megtekintéséshez kattints ide.",
