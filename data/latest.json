@@ -2,11 +2,11 @@
   "schemaVersion": 2,
   "status": "ok",
   "competition": "Virtuális BL",
-  "collectedAt": "2026-08-31T22:56:22.216Z",
+  "collectedAt": "2026-08-31T23:03:17.646Z",
   "targetUrl": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-bl-3121214",
   "finalUrl": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-angol-gyorsfoci-3129362/313171764218327040",
   "title": "",
-  "fingerprint": "dad24a54d7211133254cc9ea95540295dfba00b4c155669189cd86d92f52f8e6",
+  "fingerprint": "2c4a74f821771b2c5ab3c6c298c27a2a6a09752c4a194c77e6816133c0729839",
   "eventIds": [
     "313187703195332608",
     "313187620628361216",
@@ -19,11 +19,12 @@
     "313183407776100352",
     "313183587816599552",
     "313187683547115520",
+    "313183884553121792",
     "313187722603425792",
-    "313187781048954880",
-    "313185592581713920"
+    "313189756289314816",
+    "313187781048954880"
   ],
-  "lineCount": 38,
+  "lineCount": 39,
   "lines": [
     "Virtuális Labdarúgás",
     "Virtuális Kosárlabda",
@@ -42,9 +43,10 @@
     "Virtuális Bundesliga 1. 3129405",
     "Virtuális Francia 1. 3129409",
     "Virtuális Brazil gyorsfoci 3129426",
+    "Virtuális BL 3129411",
     "Virtuális Eb 3129428",
+    "Virtual Football World Championship 3129433",
     "Virtuális Nemzetek Kupája 3129429",
-    "Virtual Football World Championship 3129418",
     "Jelenleg nincs elérhető esemény",
     "A csapat- és játékosnevek kitaláltak, mindennemű egyezés a valósággal kizárólag a véletlen műve.",
     "A részvételi szabályzat megtekintéséshez kattints ide.",
@@ -134,16 +136,20 @@
       "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-brazil-gyorsfoci-3129426/313187683547115520"
     },
     {
+      "text": "Virtuális BL 3129411",
+      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-bl-3129411/313183884553121792"
+    },
+    {
       "text": "Virtuális Eb 3129428",
       "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-eb-3129428/313187722603425792"
     },
     {
-      "text": "Virtuális Nemzetek Kupája 3129429",
-      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-nemzetek-kupaja-3129429/313187781048954880"
+      "text": "Virtual Football World Championship 3129433",
+      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtual-football-world-championship-3129433/313189756289314816"
     },
     {
-      "text": "Virtual Football World Championship 3129418",
-      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtual-football-world-championship-3129418/313185592581713920"
+      "text": "Virtuális Nemzetek Kupája 3129429",
+      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-nemzetek-kupaja-3129429/313187781048954880"
     },
     {
       "text": "A részvételi szabályzat megtekintéséshez kattints ide.",
