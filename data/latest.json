@@ -2,11 +2,11 @@
   "schemaVersion": 2,
   "status": "ok",
   "competition": "Virtuális BL",
-  "collectedAt": "2026-09-01T23:55:18.440Z",
+  "collectedAt": "2026-09-02T00:02:42.531Z",
   "targetUrl": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-bl-3121214",
   "finalUrl": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-angol-gyorsfoci-3129753/313267399245328384",
-  "title": "",
-  "fingerprint": "adbf10bd861c14843951c088daa8ef2d4a5be645270ae8cafc2e1024a2506d3f",
+  "title": "Sportfogadás",
+  "fingerprint": "2b030d9ae9b6cc1f63f3272f53e3b3a8c4add6ef1316bc4b51b4b18855cb9aab",
   "eventIds": [
     "313283337405493248",
     "313279226293415936",
@@ -20,11 +20,10 @@
     "313282239090290688",
     "313283314343112704",
     "313278634202394624",
-    "313281437899583488",
     "313281490592624640",
     "313281337745895424"
   ],
-  "lineCount": 39,
+  "lineCount": 38,
   "lines": [
     "Virtuális Labdarúgás",
     "Virtuális Kosárlabda",
@@ -44,7 +43,6 @@
     "Virtuális Francia 1. 3129817",
     "Virtuális Brazil gyorsfoci 3129819",
     "Virtuális BL 3129798",
-    "Virtuális Eb 3129808",
     "Virtuális Nemzetek Kupája 3129810",
     "Virtual Football World Championship 3129807",
     "Jelenleg nincs elérhető esemény",
@@ -138,10 +136,6 @@
     {
       "text": "Virtuális BL 3129798",
       "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-bl-3129798/313278634202394624"
-    },
-    {
-      "text": "Virtuális Eb 3129808",
-      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-eb-3129808/313281437899583488"
     },
     {
       "text": "Virtuális Nemzetek Kupája 3129810",
