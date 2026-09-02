@@ -2,14 +2,14 @@
   "schemaVersion": 2,
   "status": "ok",
   "competition": "Virtuális BL",
-  "collectedAt": "2026-09-02T21:03:05.546Z",
+  "collectedAt": "2026-09-02T21:16:17.871Z",
   "targetUrl": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-bl-3121214",
   "finalUrl": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-angol-gyorsfoci-3130075/313347094463803392",
-  "title": "Sports Betting",
-  "fingerprint": "7651779ce59a00a83141bcd8559eb64bc78f228ddc744860c03b1e2f8ad77b6c",
+  "title": "",
+  "fingerprint": "471dbba27f7889370b0edd0cbb81d60998b9b211734bb7fc0af1395e26bcc6f2",
   "eventIds": [
     "313363032352387072",
-    "313356734106858752",
+    "313363783129658624",
     "313350823902605312",
     "313363005893668864",
     "313359630838951936",
@@ -20,20 +20,19 @@
     "313359749755858944",
     "313363005892620288",
     "313357595040182272",
-    "313361267247706112",
-    "313361322319966208",
     "313360430068822016",
-    "313363783129658624"
+    "313364595711045632"
   ],
-  "lineCount": 39,
+  "lineCount": 38,
   "lines": [
     "Virtuális Labdarúgás",
     "Virtuális Kosárlabda",
     "Virtuális Tenisz",
+    "Virtuális Baseball",
     "Virtuális Krikett",
     "Virtuális Lóverseny",
     "Virtuális Angol gyorsfoci 3130144",
-    "Virtuális Premier Liga 3130119",
+    "Virtuális Premier Liga 3130147",
     "Virtuális Angol bajnoki 3130090",
     "Virtuális Spanyol gyorsfoci 3130142",
     "Virtuális Spanyol Liga 3130129",
@@ -44,10 +43,8 @@
     "Virtuális Francia 1. 3130131",
     "Virtuális Brazil gyorsfoci 3130143",
     "Virtuális BL 3130120",
-    "Virtuális Eb 3130136",
-    "Virtuális Nemzetek Kupája 3130137",
     "Virtual Football World Championship 3130134",
-    "Virtuális Premier Liga 3130147",
+    "Virtual Football World Championship 3130149",
     "Jelenleg nincs elérhető esemény",
     "A csapat- és játékosnevek kitaláltak, mindennemű egyezés a valósággal kizárólag a véletlen műve.",
     "A részvételi szabályzat megtekintéséshez kattints ide.",
@@ -81,6 +78,10 @@
       "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-tenisz/91"
     },
     {
+      "text": "Virtuális Baseball",
+      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-baseball/187"
+    },
+    {
       "text": "Virtuális Krikett",
       "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-krikett/188"
     },
@@ -93,8 +94,8 @@
       "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-angol-gyorsfoci-3130144/313363032352387072"
     },
     {
-      "text": "Virtuális Premier Liga 3130119",
-      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-premier-liga-3130119/313356734106858752"
+      "text": "Virtuális Premier Liga 3130147",
+      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-premier-liga-3130147/313363783129658624"
     },
     {
       "text": "Virtuális Angol bajnoki 3130090",
@@ -137,20 +138,12 @@
       "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-bl-3130120/313357595040182272"
     },
     {
-      "text": "Virtuális Eb 3130136",
-      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-eb-3130136/313361267247706112"
-    },
-    {
-      "text": "Virtuális Nemzetek Kupája 3130137",
-      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-nemzetek-kupaja-3130137/313361322319966208"
-    },
-    {
       "text": "Virtual Football World Championship 3130134",
       "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtual-football-world-championship-3130134/313360430068822016"
     },
     {
-      "text": "Virtuális Premier Liga 3130147",
-      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-premier-liga-3130147/313363783129658624"
+      "text": "Virtual Football World Championship 3130149",
+      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtual-football-world-championship-3130149/313364595711045632"
     },
     {
       "text": "A részvételi szabályzat megtekintéséshez kattints ide.",
