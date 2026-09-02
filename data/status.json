@@ -1,8 +1,8 @@
 {
-  "lastRunAt": "2026-09-02T13:11:17.017Z",
+  "lastRunAt": "2026-09-02T13:23:46.723Z",
   "status": "ok",
-  "samples": 2080,
-  "latestFingerprint": "c68d974f9f00bda1d69399066c1c3b138ef1b706e6ecc66b56e01df27e3b6b84",
+  "samples": 2082,
+  "latestFingerprint": "a29bb622c356a2eaf144d82770c2f2dd9c25d2dd7dc8e1d71a8a57e792d714a8",
   "latestEventIds": [
     "313331154425640192",
     "313328549725106176",
@@ -17,8 +17,7 @@
     "313331127533858816",
     "313333907400060928",
     "313333496295355648",
-    "313333553618907136",
-    "313331292606984192"
+    "313333553618907136"
   ],
   "latestError": null,
   "schedule": {
