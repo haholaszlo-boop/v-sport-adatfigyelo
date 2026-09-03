@@ -2,14 +2,13 @@
   "schemaVersion": 2,
   "status": "ok",
   "competition": "Virtuális BL",
-  "collectedAt": "2026-09-03T13:52:31.421Z",
+  "collectedAt": "2026-09-03T14:00:41.832Z",
   "targetUrl": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-bl-3121214",
   "finalUrl": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-angol-gyorsfoci-3130343/313410841617264640",
   "title": "",
-  "fingerprint": "f27851ca41cc0699bf62bdb6170982b37df8c07a942d3657506a902c93b6732e",
+  "fingerprint": "ba8d352f82e1b4fbc335187246c565556284f5fc050c00d193669e49a69f67f6",
   "eventIds": [
     "313426779469148160",
-    "313420152844218368",
     "313427202697490432",
     "313396120293896192",
     "313426760612605952",
@@ -25,7 +24,7 @@
     "313427268597346304",
     "313427039793868800"
   ],
-  "lineCount": 40,
+  "lineCount": 39,
   "lines": [
     "Virtuális Labdarúgás",
     "Virtuális Kosárlabda",
@@ -34,7 +33,6 @@
     "Virtuális Krikett",
     "Virtuális Lóverseny",
     "Virtuális Angol gyorsfoci 3130402",
-    "Virtuális Premier Liga 3130375",
     "Virtuális Premier Liga 3130404",
     "Virtuális Angol bajnoki 3130279",
     "Virtuális Spanyol gyorsfoci 3130400",
@@ -96,10 +94,6 @@
     {
       "text": "Virtuális Angol gyorsfoci 3130402",
       "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-angol-gyorsfoci-3130402/313426779469148160"
-    },
-    {
-      "text": "Virtuális Premier Liga 3130375",
-      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-premier-liga-3130375/313420152844218368"
     },
     {
       "text": "Virtuális Premier Liga 3130404",
