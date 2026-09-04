@@ -2,11 +2,11 @@
   "schemaVersion": 2,
   "status": "ok",
   "competition": "Virtuális BL",
-  "collectedAt": "2026-09-04T23:37:48.869Z",
+  "collectedAt": "2026-09-04T23:45:12.321Z",
   "targetUrl": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-bl-3121214",
   "finalUrl": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-angol-gyorsfoci-3130864/313538349818867712",
   "title": "",
-  "fingerprint": "050241804a3589fd060f0f92044c1055707435e48f1e0ef6fa52bd8447063e47",
+  "fingerprint": "eb87f854a95caac3e019062768b80b11dbd52e9dc40cbaf0141bd12ac65a0613",
   "eventIds": [
     "313554289908412416",
     "313554035183087616",
@@ -19,12 +19,11 @@
     "313549821826461696",
     "313550002960625664",
     "313554266679308288",
-    "313547093013327872",
-    "313552155337977856",
+    "313554988642758656",
     "313552213706960896",
     "313551923960246272"
   ],
-  "lineCount": 39,
+  "lineCount": 38,
   "lines": [
     "Virtuális Labdarúgás",
     "Virtuális Kosárlabda",
@@ -43,8 +42,7 @@
     "Virtuális Bundesliga 1. 3130910",
     "Virtuális Francia 1. 3130913",
     "Virtuális Brazil gyorsfoci 3130927",
-    "Virtuális BL 3130899",
-    "Virtuális Eb 3130918",
+    "Virtuális BL 3130930",
     "Virtuális Nemzetek Kupája 3130919",
     "Virtual Football World Championship 3130917",
     "Jelenleg nincs elérhető esemény",
@@ -136,12 +134,8 @@
       "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-brazil-gyorsfoci-3130927/313554266679308288"
     },
     {
-      "text": "Virtuális BL 3130899",
-      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-bl-3130899/313547093013327872"
-    },
-    {
-      "text": "Virtuális Eb 3130918",
-      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-eb-3130918/313552155337977856"
+      "text": "Virtuális BL 3130930",
+      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-bl-3130930/313554988642758656"
     },
     {
       "text": "Virtuális Nemzetek Kupája 3130919",
