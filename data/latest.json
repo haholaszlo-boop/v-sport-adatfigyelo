@@ -2,13 +2,12 @@
   "schemaVersion": 2,
   "status": "ok",
   "competition": "Virtuális BL",
-  "collectedAt": "2026-09-08T07:50:50.772Z",
+  "collectedAt": "2026-09-08T08:00:26.032Z",
   "targetUrl": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-bl-3121214",
   "finalUrl": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-angol-gyorsfoci-3132104/313841178142994432",
   "title": "",
-  "fingerprint": "b493518e3753a5ae078b3ed3a16adb3f1b381d0bd0d3d39ea6089929fa1bc76e",
+  "fingerprint": "30556a6813ce3416ade480a8ebf110c5dc06cbbb28db444b50f2ed05786f7bec",
   "eventIds": [
-    "313841178142994432",
     "313857113483538432",
     "313857033087119360",
     "313849107015430144",
@@ -21,10 +20,11 @@
     "313852999141847040",
     "313857095012873216",
     "313855026992410624",
-    "313854112649867264",
+    "313857584098078720",
+    "313857642058117120",
     "313855813528219648"
   ],
-  "lineCount": 78,
+  "lineCount": 39,
   "lines": [
     "Virtuális Labdarúgás",
     "Virtuális Kosárlabda",
@@ -32,7 +32,6 @@
     "Virtuális Baseball",
     "Virtuális Krikett",
     "Virtuális Lóverseny",
-    "Virtuális Angol gyorsfoci 3132104",
     "Virtuális Angol gyorsfoci 3132170",
     "Virtuális Premier Liga 3132167",
     "Virtuális Angol bajnoki 3132133",
@@ -45,48 +44,10 @@
     "Virtuális Francia 1. 3132152",
     "Virtuális Brazil gyorsfoci 3132169",
     "Virtuális BL 3132163",
-    "Virtuális Eb 3132157",
+    "Virtuális Eb 3132171",
+    "Virtuális Nemzetek Kupája 3132172",
     "Virtual Football World Championship 3132164",
-    "VIRTUÁLIS ANGOL GYORSFOCI 3132104",
-    "1X2",
-    "Gólszám",
-    "Mindkét csapat szerez gólt",
-    "Everton",
-    "Brentford",
-    "Jelenleg élőben",
-    "Hazai",
-    "Döntetlen",
-    "Vendég",
-    "Igen",
-    "Nem",
-    "Manchester Blue",
-    "Brighton",
-    "Jelenleg élőben",
-    "Hazai",
-    "Döntetlen",
-    "Vendég",
-    "Igen",
-    "Nem",
-    "Burnley",
-    "Wolverhampton",
-    "09.08",
-    "09:51",
-    "Hazai",
-    "3,55",
-    "Döntetlen",
-    "3,55",
-    "Vendég",
-    "1,85",
-    "Több, mint",
-    "1,65",
-    "2.5",
-    "Kevesebb, mint",
-    "2,00",
-    "Igen",
-    "1,45",
-    "Nem",
-    "2,30",
-    "26",
+    "Jelenleg nincs elérhető esemény",
     "A csapat- és játékosnevek kitaláltak, mindennemű egyezés a valósággal kizárólag a véletlen műve.",
     "A részvételi szabályzat megtekintéséshez kattints ide.",
     "TUDNIVALÓK A V-SPORT FOGADÁSRÓL",
@@ -129,10 +90,6 @@
     {
       "text": "Virtuális Lóverseny",
       "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-loverseny/87"
-    },
-    {
-      "text": "Virtuális Angol gyorsfoci 3132104",
-      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-angol-gyorsfoci-3132104/313841178142994432"
     },
     {
       "text": "Virtuális Angol gyorsfoci 3132170",
@@ -183,16 +140,16 @@
       "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-bl-3132163/313855026992410624"
     },
     {
-      "text": "Virtuális Eb 3132157",
-      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-eb-3132157/313854112649867264"
+      "text": "Virtuális Eb 3132171",
+      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-eb-3132171/313857584098078720"
+    },
+    {
+      "text": "Virtuális Nemzetek Kupája 3132172",
+      "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtualis-nemzetek-kupaja-3132172/313857642058117120"
     },
     {
       "text": "Virtual Football World Championship 3132164",
       "href": "https://sports2.tippmixpro.hu/hu/v-sport/virtualis-labdarugas/86/virtual-football-world-championship-3132164/313855813528219648"
-    },
-    {
-      "text": "Virtuális Angol gyorsfoci 3132104",
-      "href": ""
     },
     {
       "text": "A részvételi szabályzat megtekintéséshez kattints ide.",
